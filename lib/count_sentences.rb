@@ -30,6 +30,5 @@ end
 #binding.pry
 #self.split(".").count
 self.split(/[.?!]+/).length
-end
-
+  end
 end
