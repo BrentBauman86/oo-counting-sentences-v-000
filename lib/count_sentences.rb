@@ -15,7 +15,7 @@ if self.end_with?("?")
   true
 else
   false
-  end  
+  end
 end
 
   def exclamation?
