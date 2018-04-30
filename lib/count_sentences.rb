@@ -29,7 +29,7 @@ end
   def count_sentences
 #binding.pry
 #self.split(".").count
-self.split(/[!?.]+/).size
+self.split(/[.?!]+/).size
 end
 
 end
