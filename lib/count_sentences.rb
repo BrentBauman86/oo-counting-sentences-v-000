@@ -28,7 +28,7 @@ end
 
   def count_sentences
 #binding.pry
-self.count
+self.split(".").count
 end
 
 end
