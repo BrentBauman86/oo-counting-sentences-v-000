@@ -27,6 +27,7 @@ else
 end
 
   def count_sentences
-binding.pry
-  end
+#binding.pry
+self.split(".")
+  
 end
