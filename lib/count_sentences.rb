@@ -28,10 +28,8 @@ end
 
   def count_sentences
 #binding.pry
-if self.split(".").count
-else
-  self.length
-end
+self.split(".").count
+
 end
 
 end
